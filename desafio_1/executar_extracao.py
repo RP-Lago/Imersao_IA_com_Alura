@@ -29,6 +29,3 @@ df['site_type'] = df['site'].apply(classify_site)
 grouped = df.groupby(['site_type']).size().reset_index(name='counts')
 
 print(grouped)
-
-
-
