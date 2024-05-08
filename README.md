@@ -1,4 +1,4 @@
-# mersão Inteligência Artificial 2ª Edição
+# Imersão Inteligência Artificial 2ª Edição
 
 # Usando o código Python para transcrever imagens em texto com a API do Google
 **Requisitos:**
